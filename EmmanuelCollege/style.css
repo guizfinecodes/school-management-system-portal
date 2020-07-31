@@ -1,0 +1,122 @@
+.header-top-info {
+    background: #003300 none repeat scroll 0 0;
+}
+
+.top-info-left a {
+    display: inline-block;
+    font-size: 13px;
+    color: #fff;
+    margin: 5px 10px 2px 0;
+}
+
+.top-info-left a i {
+    margin-right: 1px;
+}
+
+.top-info-right ul {
+    float: right;
+}
+
+.top-info-right li {
+    float: left;
+}
+
+.top-info-right li a {
+    display: block
+}
+
+.top-info-right li a i {
+    text-align: center;
+    line-height: 25px;
+    font-size: 16px;
+    height: 25px;
+    margin: 2px;
+    width: 25px;
+    color: #fff;
+    -webkit-transition: all 0.36s ease-out;
+    transition: all 0.36s ease-out;
+}
+
+.top-info-right li a i:hover,
+.top-info-left div a i:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.container{
+    margin-left: 0.5px;
+
+
+}
+
+.green_below a{
+display: inline-block;
+    font-size: 30px;
+    color: #CF03CF;
+    margin: 5px 10px 10px 0;
+   /* background-color: #111*/
+   /* text-align: center;*/
+   margin-left: 39%;
+
+
+}
+
+.green_below {
+    background: #505050 none repeat scroll 0 0;
+    }
+
+.green_below a i{
+
+}    
+
+.background_img{
+    background-size: 100%;
+   /* margin-bottom: 2%;*/
+}
+
+.background{
+    background-color: #99C0FF;
+    /*border: thin;
+    border-color: #99CCFF;
+*/
+
+
+} 
+
+
+.panel-heading1{
+    margin-right: 3%;
+    margin-left: 3%;
+
+
+
+}
+
+.panel-body{
+    margin-right: 30%;
+}
+.panel1{
+/*padding-right: 45%;
+}
+.Communication{
+    padding-left: 0%;*/
+}
+
+.Exit{
+    float: right;
+    margin-right: 30px;
+    /*    margin-left: 10px;
+     margin-left: 80%;
+   padding-right: 20px;*/
+
+}
+.toplogo{
+    background: url(img/logo4.jpg) 0 0 no-repeat;
+   width: 205px;
+   height: 75px;
+   position: fixed;
+   top: 10px;
+   left: 10px;
+   z-index: 1000;
+
+}
